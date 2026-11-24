@@ -1,19 +1,12 @@
-# Project 02
+# Project 02 · Experience Elite Travel with RBD Tourism
 
-Campaign details and assets are pending.
+A chauffeur services campaign for RBD Tourism. The production files are organized from image design through the final edit.
 
-## Video Requirements
-
-- **Campaign or service**
-- **Audience and campaign objective**
-- **Target platform, video length, and aspect ratio**
-- **Main message and call to action**
-
-## Production Sequence
-
-1. [Ad Images for Video](01-ad-images/README.md)
-2. [AI Video Clips](02-ai-video-clips/README.md)
-3. [Sound Design](03-sound-design/README.md)
-4. [Final Video](04-final-video/README.md)
+| Stage | Available files |
+| --- | --- |
+| 1. [Images Design](01-ad-images/README.md) | 16 source images |
+| 2. [AI Video Creation](02-ai-video-clips/README.md) | 15 short clips |
+| 3. [Sound Design](03-sound-design/README.md) | Separate tracks pending |
+| 4. [Final Video and Editable Files](04-final-video/README.md) | Final MP4 with audio. Editable timeline pending. |
 
 [Back to the advertising portfolio](../README.md)
