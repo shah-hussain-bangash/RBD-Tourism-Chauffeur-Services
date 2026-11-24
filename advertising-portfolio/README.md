@@ -2,9 +2,15 @@
 
 ## First video project
 
-The chauffeur campaign started with still-image concepts. The selected designs show the vehicle, Dubai setting, and campaign branding used to plan short AI-generated clips and the final edit.
+The campaign promotes RBD Tourism's chauffeur services in Dubai. It progresses from still-image studies of the vehicle, location, and brand treatment to short AI-generated motion tests and the final edited ad.
 
-| Image design | Purpose |
+| Stage | Files |
 | --- | --- |
-| [Dubai chauffeur concept](01-image-designs/dubai-chauffeur-concept.jpg) | Vehicle and skyline composition |
-| [Chauffeur campaign banner](01-image-designs/chauffeur-campaign-banner.jpg) | Campaign headline and brand treatment |
+| 1. Design the images | [24 source image designs](01-image-designs/), plus two web previews |
+| 2. Generate short clips | [9 short AI clips and motion tests](02-short-ai-clips/) |
+| 3. Edit the final ad | [Full-length campaign video](03-final-video/rbd-tourism-professional-video.mp4), approximately 61 seconds with audio, in a compressed 480p web version |
+
+### Featured image designs
+
+- [Dubai chauffeur concept](01-image-designs/dubai-chauffeur-concept.jpg)
+- [Chauffeur campaign banner](01-image-designs/chauffeur-campaign-banner.jpg)
