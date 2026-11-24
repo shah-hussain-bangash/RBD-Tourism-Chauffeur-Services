@@ -1,7 +1,5 @@
-# Project 01 · AI Video Clips
+# 02 · AI Video Creation
 
-Generate short clips from the source images. Upload the motion tests and selected clips in scene order.
-
-Review the [nine short AI clips and motion tests](../../02-short-ai-clips/).
+This folder contains nine short AI-generated clips and motion tests used to develop the chauffeur campaign.
 
 [Back to Project 01](../README.md)

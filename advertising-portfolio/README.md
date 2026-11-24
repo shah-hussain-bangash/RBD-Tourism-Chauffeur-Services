@@ -9,9 +9,19 @@ Ten project spaces for RBD Tourism campaigns. Each project starts with its video
 
 ## Projects
 
+<details>
+<summary>Project 01 · Dubai Chauffeur Services</summary>
+
+- [Images Design](project-01/01-ad-images/README.md)
+- [AI Video Creation](project-01/02-ai-video-clips/README.md)
+- [Sound Design](project-01/03-sound-design/README.md)
+- [Final Video and Editable Files](project-01/04-final-video/README.md)
+
+</details>
+
 | Project | Campaign and status |
 | --- | --- |
-| [Project 01](project-01/README.md) | Dubai chauffeur services · Images, AI clips, and final ad available |
+| [Project 01](project-01/README.md) | Dubai chauffeur services · Images, AI clips, and final ad available. Audio stems and editable files pending. |
 | [Project 02](project-02/README.md) | Campaign details and assets pending |
 | [Project 03](project-03/README.md) | Campaign details and assets pending |
 | [Project 04](project-04/README.md) | Campaign details and assets pending |
