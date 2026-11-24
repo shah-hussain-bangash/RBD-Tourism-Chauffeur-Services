@@ -3,7 +3,7 @@ RBD Tourism case study covering website development, chatbot development, SEO, b
 
 ## Advertising portfolio
 
-[Browse the advertising portfolio and production stages](advertising-portfolio/README.md) · [Project 01: Dubai chauffeur services](advertising-portfolio/project-01/README.md) · [Project 02: Experience Elite Travel](advertising-portfolio/project-02/README.md)
+[Browse the advertising portfolio and production stages](advertising-portfolio/README.md) · [Project 01: Dubai chauffeur services](advertising-portfolio/project-01/README.md) · [Project 02: Experience Elite Travel](advertising-portfolio/project-02/README.md) · [Project 03: Wedding Chauffeur Campaign](advertising-portfolio/project-03/README.md)
 
 <details>
 <summary>Project 01 · Dubai Chauffeur Services</summary>
@@ -22,5 +22,15 @@ RBD Tourism case study covering website development, chatbot development, SEO, b
 - [AI Video Creation](advertising-portfolio/project-02/02-ai-video-clips/README.md)
 - [Sound Design](advertising-portfolio/project-02/03-sound-design/README.md)
 - [Final Video and Editable Files](advertising-portfolio/project-02/04-final-video/README.md)
+
+</details>
+
+<details>
+<summary>Project 03 · Wedding Chauffeur Campaign</summary>
+
+- [Images Design](advertising-portfolio/project-03/01-ad-images/README.md)
+- [AI Video Creation](advertising-portfolio/project-03/02-ai-video-clips/README.md)
+- [Sound Design](advertising-portfolio/project-03/03-sound-design/README.md)
+- [Final Video and Editable Files](advertising-portfolio/project-03/04-final-video/README.md)
 
 </details>

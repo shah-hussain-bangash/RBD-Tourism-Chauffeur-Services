@@ -1,7 +1,5 @@
-# Project 03 · Ad Images for Video
+# 01 · Images Design
 
-Create the storyboard, ad layouts, and source images for each planned scene. Upload the selected stills and any approved brand assets here.
-
-Assets pending.
+This folder contains the 14 supplied image designs for Project 03.
 
 [Back to Project 03](../README.md)

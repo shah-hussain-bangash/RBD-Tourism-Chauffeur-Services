@@ -1,19 +1,12 @@
-# Project 03
+# Project 03 · Wedding Chauffeur Campaign
 
-Campaign details and assets are pending.
+RBD Tourism’s wedding chauffeur advertising project. Use the production stages below to browse the supplied assets and the final edit.
 
-## Video Requirements
-
-- **Campaign or service**
-- **Audience and campaign objective**
-- **Target platform, video length, and aspect ratio**
-- **Main message and call to action**
-
-## Production Sequence
-
-1. [Ad Images for Video](01-ad-images/README.md)
-2. [AI Video Clips](02-ai-video-clips/README.md)
-3. [Sound Design](03-sound-design/README.md)
-4. [Final Video](04-final-video/README.md)
+| Stage | Available files |
+| --- | --- |
+| 1. [Images Design](01-ad-images/README.md) | 14 source images |
+| 2. [AI Video Creation](02-ai-video-clips/README.md) | 14 supplied short clips |
+| 3. [Sound Design](03-sound-design/README.md) | Embedded audio in the final ad. Separate tracks pending. |
+| 4. [Final Video and Editable Files](04-final-video/README.md) | 41-second final ad. Editable timeline pending. |
 
 [Back to the advertising portfolio](../README.md)
