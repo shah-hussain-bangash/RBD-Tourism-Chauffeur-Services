@@ -39,12 +39,22 @@ Ten project spaces for RBD Tourism campaigns. Each project starts with its video
 
 </details>
 
+<details>
+<summary>Project 04 · Dubai Exhibition Events</summary>
+
+- [Images Design](project-04/01-ad-images/README.md)
+- [AI Video Creation](project-04/02-ai-video-clips/README.md)
+- [Sound Design](project-04/03-sound-design/README.md)
+- [Final Video and Editable Files](project-04/04-final-video/README.md)
+
+</details>
+
 | Project | Campaign and status |
 | --- | --- |
 | [Project 01](project-01/README.md) | Dubai chauffeur services · Images, AI clips, and final ad available. Audio stems and editable files pending. |
 | [Project 02](project-02/README.md) | Experience Elite Travel · 16 designs, 15 clips, and the final ad |
 | [Project 03](project-03/README.md) | Wedding chauffeur campaign · 14 designs, 14 clips, and the final ad |
-| [Project 04](project-04/README.md) | Campaign details and assets pending |
+| [Project 04](project-04/README.md) | Dubai Exhibition Events · 19 designs, 14 clips, and the final ad |
 | [Project 05](project-05/README.md) | Campaign details and assets pending |
 | [Project 06](project-06/README.md) | Campaign details and assets pending |
 | [Project 07](project-07/README.md) | Campaign details and assets pending |

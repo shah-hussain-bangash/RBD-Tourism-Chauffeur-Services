@@ -1,7 +1,5 @@
-# Project 04 · Sound Design
+# 03 · Sound Design
 
-Prepare voice-over, background music, and sound effects. Upload the audio tracks used in the edit and note any attribution or usage requirements.
-
-Assets pending.
+The final video includes an audio mix. Separate voice-over, music, and sound effects files are pending.
 
 [Back to Project 04](../README.md)

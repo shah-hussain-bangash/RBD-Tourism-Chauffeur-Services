@@ -1,7 +1,5 @@
-# Project 04 · AI Video Clips
+# 02 · AI Video Creation
 
-Generate short clips from the source images. Upload the motion tests and selected clips in scene order.
-
-Assets pending.
+This folder contains the 14 supplied short clips and motion tests.
 
 [Back to Project 04](../README.md)
