@@ -3,4 +3,4 @@ RBD Tourism case study covering website development, chatbot development, SEO, b
 
 ## Advertising portfolio
 
-[First video project](advertising-portfolio/README.md)
+[Browse the advertising portfolio and production stages](advertising-portfolio/README.md) · [Project 01: Dubai chauffeur services](advertising-portfolio/project-01/README.md)

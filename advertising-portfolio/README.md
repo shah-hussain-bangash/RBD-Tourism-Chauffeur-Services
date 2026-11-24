@@ -1,16 +1,25 @@
-# RBD Tourism advertising portfolio
+# RBD Tourism Advertising Portfolio
 
-## First video project
+Ten project spaces for RBD Tourism campaigns. Each project starts with its video requirements and follows the same production sequence.
 
-The campaign promotes RBD Tourism's chauffeur services in Dubai. It progresses from still-image studies of the vehicle, location, and brand treatment to short AI-generated motion tests and the final edited ad.
+1. Design the ad images and storyboard.
+2. Generate the short AI video clips.
+3. Prepare the voice-over, music, and sound effects.
+4. Edit and export the final video.
 
-| Stage | Files |
+## Projects
+
+| Project | Campaign and status |
 | --- | --- |
-| 1. Design the images | [24 source image designs](01-image-designs/), plus two web previews |
-| 2. Generate short clips | [9 short AI clips and motion tests](02-short-ai-clips/) |
-| 3. Edit the final ad | [Full-length campaign video](03-final-video/rbd-tourism-professional-video.mp4), approximately 61 seconds with audio, in a compressed 480p web version |
+| [Project 01](project-01/README.md) | Dubai chauffeur services · Images, AI clips, and final ad available |
+| [Project 02](project-02/README.md) | Campaign details and assets pending |
+| [Project 03](project-03/README.md) | Campaign details and assets pending |
+| [Project 04](project-04/README.md) | Campaign details and assets pending |
+| [Project 05](project-05/README.md) | Campaign details and assets pending |
+| [Project 06](project-06/README.md) | Campaign details and assets pending |
+| [Project 07](project-07/README.md) | Campaign details and assets pending |
+| [Project 08](project-08/README.md) | Campaign details and assets pending |
+| [Project 09](project-09/README.md) | Campaign details and assets pending |
+| [Project 10](project-10/README.md) | Campaign details and assets pending |
 
-### Featured image designs
-
-- [Dubai chauffeur concept](01-image-designs/dubai-chauffeur-concept.jpg)
-- [Chauffeur campaign banner](01-image-designs/chauffeur-campaign-banner.jpg)
+[Back to the repository](../README.md)
